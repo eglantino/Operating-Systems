@@ -1,3 +1,1 @@
-# OSdelhs
-
-Operating Systems
+Operating Systems PRojects uni
